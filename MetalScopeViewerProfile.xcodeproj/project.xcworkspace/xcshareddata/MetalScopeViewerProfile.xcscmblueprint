@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5609B7BDA97026DDAE08F96A306E85065FAB8D91" : 9223372036854775807,
+    "43BF8F9148B1F39FBDE34E7D1E69C54C78D21FCC" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CA3FAF67-DA39-46C2-90BE-35936B0D0819",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5609B7BDA97026DDAE08F96A306E85065FAB8D91" : "MetalScopeViewerProfile\/Carthage\/Checkouts\/MetalScope\/",
+    "43BF8F9148B1F39FBDE34E7D1E69C54C78D21FCC" : "MetalScopeViewerProfile\/Carthage\/Checkouts\/swift-protobuf\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MetalScopeViewerProfile",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MetalScopeViewerProfile.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/apple\/swift-protobuf.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "43BF8F9148B1F39FBDE34E7D1E69C54C78D21FCC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ejeinc\/MetalScope.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5609B7BDA97026DDAE08F96A306E85065FAB8D91"
+    }
+  ]
+}
