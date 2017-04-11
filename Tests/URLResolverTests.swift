@@ -92,7 +92,7 @@ final class URLResolverTests: XCTestCase {
         let resolver = URLResolver()
         let token = resolver.resolve(url: unresolvedURL) { resolvedURL, error in
             guard let error = error else {
-                XCTFail("Cancelled by succeed")
+                XCTFail("Cancelled but succeed")
                 return
             }
             switch error {
